@@ -8,6 +8,5 @@ import lombok.Setter;
 public class LoginBean {
 	
 	private String name;
-	private String addres;
 	
 }
